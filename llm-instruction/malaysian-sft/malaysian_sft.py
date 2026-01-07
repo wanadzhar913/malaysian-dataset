@@ -139,7 +139,8 @@ rejected_words = [
     'pertama-tama',
     ' akkan',
     'им',
-    'м'
+    'м',
+    'persentase',
 ]
 
 cyrillic_characters = [
